@@ -1,0 +1,12 @@
+  DATA TYPE:--
+1)STRING
+2)INT
+3)DOUBLE
+4)FLOAT
+5)CHAR
+6)Arr
+
+ GET INPUT TO DATA TYPES:--
+1)next() //for get string input
+2)nextInt() //for get integer input
+3)charAt(0) //for get  character value
